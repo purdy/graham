@@ -1,0 +1,4 @@
+name: graham-s-first-lando-site
+recipe: lamp
+config:
+  webroot: .
